@@ -1,4 +1,4 @@
 Tabbed-Boxes
 ============
 
-Tabbed boxes with JS and jQuery
+Tabbed boxes with JS and jQuery.
